@@ -1,0 +1,7 @@
+{
+  "name": "Suporte Inotecfil",
+  "description": "Suporte Técnico Inotecfil",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
